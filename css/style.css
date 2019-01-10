@@ -1,10 +1,12 @@
 body {
-  background-color: lightblue;
-}
-body {
-  background-image: url("bgdesert.jpg");
-}
+  background-color: #ff7e5f;
+  /*background-color: #EDEEF1;*/
 
+}
+/*body {
+  background: url('../img/qq.jpg');
+
+}*/
 .bg-black{
 	background-color: black;
 }
