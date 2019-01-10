@@ -1,4 +1,9 @@
-
+body {
+  background-color: lightblue;
+}
+body {
+  background-image: url("bgdesert.jpg");
+}
 
 .bg-black{
 	background-color: black;
@@ -9,6 +14,17 @@ img{
 }
 .font-div{
 	width: 30%;
+	font-size: 22px;
+}
+.btn:hover{
+
+}
+.font-div:hover{
+	color:purple;
+	cursor: pointer;
+}
+.email{
+	font-size: 32px;
 }
 
 /*@media only screen and (min-width:1198px){
