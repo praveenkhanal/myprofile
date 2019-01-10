@@ -1,12 +1,10 @@
+/*body {*/
+  /*background-color: #ff7e5f;*/
+  /*background-color: 	#A9A9A9;*/
 body {
-  background-color: #ff7e5f;
-  /*background-color: #EDEEF1;*/
-
-}
-/*body {
   background: url('../img/qq.jpg');
 
-}*/
+}
 .bg-black{
 	background-color: black;
 }
@@ -16,7 +14,7 @@ img{
 }
 .font-div{
 	width: 30%;
-	font-size: 22px;
+	font-size: 20px;
 }
 .btn:hover{
 
@@ -24,13 +22,21 @@ img{
 .font-div:hover{
 	color:purple;
 	cursor: pointer;
+	text-decoration: underline;
+
 }
 .email{
-	font-size: 32px;
+	font-size: 25px;
+	background-color: #253924;
 }
+.footer {
+  position: relative;
+  margin-top: 250px; 
+  padding-top:80px;
+} 
 
 /*@media only screen and (min-width:1198px){
 	.font-div{
 		padding: 42.5px 0px!important;
 	}
-}*/
+}
